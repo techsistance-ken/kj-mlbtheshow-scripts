@@ -1,0 +1,21 @@
+{
+  "name": "nancek00_mlbtheshow",
+  "version": "1.0.0",
+  "description": "Some scripts to use the MLB The Show APIs",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken Nance",
+  "license": "ISC",
+  "dependencies": {
+    "@json2csv/plainjs": "^6.1.2",
+    "es-main": "^1.2.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "node-fetch": "^3.3.0",
+    "node-html-parser": "^6.1.5",
+    "ramda": "^0.28.0",
+    "winston": "^3.8.2"
+  }
+}

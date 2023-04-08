@@ -1,0 +1,9 @@
+.env
+.DS_Store
+rest.rest
+*.log
+src/items.json
+src/listings.json
+*.xlsx
+src/log.csv
+node_modules/
